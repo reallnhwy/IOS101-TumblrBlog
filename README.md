@@ -1,4 +1,4 @@
-# Project 5 - *Humans of New York Tumblr Blog *
+# Project 5 - *Humans of New York Tumblr Blog*
 
 Submitted by: **Y Banh**
 
